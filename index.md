@@ -2,7 +2,7 @@
 
 Aseemblies, XXX region and source data from the XXX et al YYY
 
-[<img src="https://sismo.app/wp-content/uploads/2019/02/under-construction-gif-11.gif" width="40"/>](Under construction)
+[<img src="https://sismo.app/wp-content/uploads/2019/02/under-construction-gif-11.gif" width="150"/>](Under construction)
 
 ### Markdown
 
