@@ -1,6 +1,14 @@
-## TricMAT
+## Title
 
-Aseemblies, XXX region and source data from the XXX et al YYY
+Aseemblies, XXX regions and source data from the XXX et al YYY
+
+**Authors**: 
+
+**Journal**:
+
+**Year**:
+
+**Abstract**:
 
 <div style="text-align:center"><img src="https://sismo.app/wp-content/uploads/2019/02/under-construction-gif-11.gif" width="250"/></div>
 
