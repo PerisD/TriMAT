@@ -15,6 +15,6 @@ This repository, linked to the TriMAT [Github Page](https://perisd.github.io/Tri
 
 ### Contact
 
-[<img src="https://www.uv.es/perisnav/Index/twitter-logo.png" width="50"/>](linktr.ee/PerisD)
+[<img src="https://www.uv.es/perisnav/Index/twitter-logo.png" width="50"/>](https://linktr.ee/PerisD)
 
 
