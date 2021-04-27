@@ -27,15 +27,36 @@ TF100210M3|*T. fuscoviolaceum*|[NGENOME](LLL.tar.gz "NGENOME")
 
 ### Crossing pictures
 
+To test compatible and incompatible MAT alleles we performed crosses and we took pictures to check the generation of clamp connections.
+
 [Macroscopic](LLL.tar.gz "Macroscopic pictures of trichaptum crosses")
 
 [Microscopic](LLL.tar.gz "Pictures taken under the microscope of the contact zone during trichaptum crosses")
 
 ### MATA and MATB regions
 
+MATA and MATB regions were assembled and annotated to extract individual genes and make multiple sequence alignments to perform multiple analyses.
+
+[MATA](LLL.zip "MATA regions containing homeodomain genes")
+
+[MATB](LLL.zip "MATB regions containing pheromone receptors and pheromones")
+
+[IndividualGeneAlignments](LLL.zip "Trimmed individual gene alignments")
 
 ### Source data
 
+Raw data used to generate Figures XXX-YYY
+
+Statistic |Description | File
+-------|-------|---|------
+BUSCO-MAT genes|*BUSCO annotation statistics and location on TA10106M1 genome*|[BUSCO-MAT genes](LLL/BUSCO_MAT_info.csv "BUSCO-MAT genes")
+dxy|*Absolute divergence statitstics for BUSCO and MAT genes*|[dxy](LLL/dxy.csv "dxy")
+Fst|*BUSCO annotation statistics and location on TA10106M1 genome*|[Fst](LLL/Fst.csv "Fst")
+MKT|*BUSCO annotation statistics and location on TA10106M1 genome*|[MKT](LLL/MKT.csv "MKT")
+paml|*BUSCO annotation statistics and location on TA10106M1 genome*|[paml](LLL/paml.csv "paml")
+pi|*BUSCO annotation statistics and location on TA10106M1 genome*|[pi](LLL/pi.csv "pi")
+tajimaD|*BUSCO annotation statistics and location on TA10106M1 genome*|[tajimaD](LLL/tajimaD.csv "tajimaD")
+IQTree|*IQTree log files with information to replicate the phylogenetic reconstruction*|[IQTree](LLL/IQTree_logFiles.tar.gz "IQTree")
 
 ### Used command lines
 
