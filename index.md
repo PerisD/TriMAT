@@ -1,6 +1,6 @@
 ## Title
 
-Aseemblies, XXX regions and source data from XXX et al YYY
+Assemblies, XXX regions and source data from XXX et al YYY
 
 **Authors**: 
 
