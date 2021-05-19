@@ -151,27 +151,6 @@ runMummer_OneGenomevsall_v1.2.py -i [FOLDERWITHASSEMBLY] -t [REFASSEMBLY].fasta
 ```
 busco -i [PATH2ASSEMBLY] -o [ORGANISMNAME] -l agaricomycetes_odb10 -m geno -c 16
 ```
-##### Genome annotation with MAKER2
-
-###### 1.RepeatModeler
-
-###### 2.
-
-###### 3.
-
-###### 4.
-
-###### 5.
-
-###### 6.
-
-###### 7.
-
-###### 8.
-
-###### 9.
-
-
 #### Gene alignments
 ##### Gene identification in mating regions from Illumina assemblies
 ```
