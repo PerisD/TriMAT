@@ -47,17 +47,17 @@ MATA and MATB regions were assembled and annotated to extract individual genes a
 
 Raw data used to generate Figures XXX-YYY
 
-Description | File | Figure
-------------|------|-------
-*BUSCO annotation statistics and location on TA10106M1 genome*|[BUSCO-MAT genes](LLL/BUSCO_MAT_info.csv "BUSCO-MAT genes")|Figure XXX
-*Absolute divergence statitstic for BUSCO and MAT genes*|[dxy](LLL/dxy.csv "dxy")|Figure XXX
-*Relative divergence statitstic for BUSCO and MAT genes*|[Fst](LLL/Fst.csv "Fst")|Figure XXX
-*Multilocus Hudson–Kreitman–Aguadé (HKA) test performed with HKAdirect 0.7b*|[MKT](LLL/MKT.csv "MKT")|Figure XXX
-*Average number of synonymous substitutions per synonymous sites (dS) and non-synonymous substitutions per non-synonymous sites (dN) for BUSCO and MAT genes*|[PAML](LLL/paml.csv "PAML")|Figure XXX
-*Nucleotide diversity values for BUSCO and MAT genes*|[pi](LLL/pi.csv "pi")|Figure XXX
-*Tajima's D values for BUSCO and MAT genes*|[Tajima's D](LLL/tajimaD.csv "Tajima's D")|Figure XXX
-*IQTree log files with information to replicate the phylogenetic reconstruction*|[IQTree](LLL/IQTree_logFiles.tar.gz "IQTree")|Figure XXX
-*Converted Average Nucleotide Identity (ANI) used for reconstructing a Neighbour-Joining tree*|[ANI](LLL/AllvsAll_distances.meg "ANI")|Figure XXX
+File | Figure | Description
+-----|--------|-------------
+[BUSCO-MAT genes](LLL/BUSCO_MAT_info.csv "BUSCO-MAT genes")|Figure XXX|*BUSCO annotation statistics and location on TA10106M1 genome*
+[dxy](LLL/dxy.csv "dxy")|Figure XXX|*Absolute divergence statitstic for BUSCO and MAT genes*
+[Fst](LLL/Fst.csv "Fst")|Figure XXX|*Relative divergence statitstic for BUSCO and MAT genes*
+[MKT](LLL/MKT.csv "MKT")|Figure XXX|*Multilocus Hudson–Kreitman–Aguadé (HKA) test performed with HKAdirect 0.7b*
+[PAML](LLL/paml.csv "PAML")|Figure XXX|*Average number of synonymous substitutions per synonymous sites (dS) and non-synonymous substitutions per non-synonymous sites (dN) for BUSCO and MAT genes*
+[pi](LLL/pi.csv "pi")|Figure XXX|*Nucleotide diversity values for BUSCO and MAT genes*
+[Tajima's D](LLL/tajimaD.csv "Tajima's D")|Figure XXX|*Tajima's D values for BUSCO and MAT genes*
+[IQTree](LLL/IQTree_logFiles.tar.gz "IQTree")|Figure XXX|*IQTree log files with information to replicate the phylogenetic reconstruction*
+[ANI](LLL/AllvsAll_distances.meg "ANI")|Figure XXX|*Converted Average Nucleotide Identity (ANI) used for reconstructing a Neighbour-Joining tree*
 
 ### Used command lines
 
@@ -92,7 +92,7 @@ canu -p [ASSEMBLYNAME] -d [PATH2OUTPUTDIRECTORY] genomeSize=40.00m -pacbio-raw [
 mecat.pl correct [config_file].txt
 mecat.pl assemble [config_file].txt
 ```
-- mecat2 configuration file
+###### mecat2 configuration file
 ```
 PROJECT=[ASSEMBLYNAME]
 RAWREADS=[PATH2PacBio].fastq
@@ -151,10 +151,27 @@ runMummer_OneGenomevsall_v1.2.py -i [FOLDERWITHASSEMBLY] -t [REFASSEMBLY].fasta
 ```
 busco -i [PATH2ASSEMBLY] -o [ORGANISMNAME] -l agaricomycetes_odb10 -m geno -c 16
 ```
-##### Genome annotation with MAKER20
-```
-XXX																	XXX									XXX
-```
+##### Genome annotation with MAKER2
+
+###### 1.RepeatModeler
+
+###### 2.
+
+###### 3.
+
+###### 4.
+
+###### 5.
+
+###### 6.
+
+###### 7.
+
+###### 8.
+
+###### 9.
+
+
 #### Gene alignments
 ##### Gene identification in mating regions from Illumina assemblies
 ```
