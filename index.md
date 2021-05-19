@@ -49,15 +49,15 @@ Raw data used to generate Figures XXX-YYY
 
 File | Figure | Description
 -----|--------|-------------
-[BUSCO-MAT genes](LLL/BUSCO_MAT_info.csv "BUSCO-MAT genes")|Figure XXX|*BUSCO annotation statistics and location on TA10106M1 genome*
-[dxy](LLL/dxy.csv "dxy")|Figure XXX|*Absolute divergence statitstic for BUSCO and MAT genes*
-[Fst](LLL/Fst.csv "Fst")|Figure XXX|*Relative divergence statitstic for BUSCO and MAT genes*
-[MKT](LLL/MKT.csv "MKT")|Figure XXX|*Multilocus Hudson–Kreitman–Aguadé (HKA) test performed with HKAdirect 0.7b*
-[PAML](LLL/paml.csv "PAML")|Figure XXX|*Average number of synonymous substitutions per synonymous sites (dS) and non-synonymous substitutions per non-synonymous sites (dN) for BUSCO and MAT genes*
-[pi](LLL/pi.csv "pi")|Figure XXX|*Nucleotide diversity values for BUSCO and MAT genes*
-[Tajima's D](LLL/tajimaD.csv "Tajima's D")|Figure XXX|*Tajima's D values for BUSCO and MAT genes*
-[IQTree](LLL/IQTree_logFiles.tar.gz "IQTree")|Figure XXX|*IQTree log files with information to replicate the phylogenetic reconstruction*
-[ANI](LLL/AllvsAll_distances.meg "ANI")|Figure XXX|*Converted Average Nucleotide Identity (ANI) used for reconstructing a Neighbour-Joining tree*
+[BUSCO-MAT genes](https://github.com/PerisD/TriMAT/blob/main/SourceData/BUSCO_MAT_info.csv "BUSCO-MAT genes")|Figure XXX|*BUSCO annotation statistics and location on TA10106M1 genome*
+[dxy](https://github.com/PerisD/TriMAT/blob/main/SourceData/dxy.csv "dxy")|Figure XXX|*Absolute divergence statitstic for BUSCO and MAT genes*
+[Fst](https://github.com/PerisD/TriMAT/blob/main/SourceData/Fst.csv "Fst")|Figure XXX|*Relative divergence statitstic for BUSCO and MAT genes*
+[MKT](https://github.com/PerisD/TriMAT/blob/main/SourceData/MKT.csv "MKT")|Figure XXX|*Multilocus Hudson–Kreitman–Aguadé (HKA) test performed with HKAdirect 0.7b*
+[PAML](https://github.com/PerisD/TriMAT/blob/main/SourceData/paml.csv "PAML")|Figure XXX|*Average number of synonymous substitutions per synonymous sites (dS) and non-synonymous substitutions per non-synonymous sites (dN) for BUSCO and MAT genes*
+[pi](https://github.com/PerisD/TriMAT/blob/main/SourceData/pi.csv "pi")|Figure XXX|*Nucleotide diversity values for BUSCO and MAT genes*
+[Tajima's D](https://github.com/PerisD/TriMAT/blob/main/SourceData/tajimaD.csv "Tajima's D")|Figure XXX|*Tajima's D values for BUSCO and MAT genes*
+[IQTree](https://github.com/PerisD/TriMAT/blob/main/SourceData/IQTree_logFiles.tar.gz "IQTree")|Figure XXX|*IQTree log files with information to replicate the phylogenetic reconstruction*
+[ANI](https://github.com/PerisD/TriMAT/blob/main/SourceData/AllvsAll_distances.meg "ANI")|Figure XXX|*Converted Average Nucleotide Identity (ANI) used for reconstructing a Neighbour-Joining tree*
 
 ### Used command lines
 
