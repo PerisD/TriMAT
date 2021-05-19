@@ -21,7 +21,7 @@ Specimen|Species|Nuclear|ENA Accession no.
 TA10106M1|*T. abietinum*|[NGENOME](LLL.tar.gz "NGENOME")|[ERZ2230395](XXX "ERZ2230395")
 TF100210M3|*T. fuscoviolaceum*|[NGENOME](LLL.tar.gz "NGENOME")|[ERZ2230524](XXX "ERZ2230524")
 
-[Additional assemblies](LLL.tar.gz "178 SPAdes assemblies generated using Illumina reads")
+[178 SPAdes assemblies generated using Illumina reads](LLL.tar.gz "Additional assemblies")
 
 [L15831](https://mycocosm.jgi.doe.gov/Triab1_1/Triab1_1.home.html "L15831 downloaded from JGI")
 
