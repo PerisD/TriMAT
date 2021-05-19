@@ -16,10 +16,10 @@ Assemblies, XXX regions and source data from XXX et al YYY
 
 Assemblies generated using PacBio and Illumina reads
 
-Specimen |Species| Nuclear
+Specimen|Species|Nuclear|ENA Accession no.
 -------|-------|---|------
-TA10106M1|*T. abietinum*|[NGENOME](LLL.tar.gz "NGENOME")
-TF100210M3|*T. fuscoviolaceum*|[NGENOME](LLL.tar.gz "NGENOME")
+TA10106M1|*T. abietinum*|[NGENOME](LLL.tar.gz "NGENOME")|[ERZ2230395](XXX "ERZ2230395")
+TF100210M3|*T. fuscoviolaceum*|[NGENOME](LLL.tar.gz "NGENOME")|[ERZ2230524](XXX "ERZ2230524")
 
 [Additional assemblies](LLL.tar.gz "178 SPAdes assemblies generated using Illumina reads")
 
