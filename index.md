@@ -1,6 +1,6 @@
 ## Title
 
-Assemblies, XXX regions and source data from XXX et al YYY
+Assemblies, MATA/MATB regions and source data from XXX et al YYY
 
 **Authors**: 
 
@@ -56,7 +56,7 @@ File | Figure | Description
 [PAML](https://github.com/PerisD/TriMAT/blob/main/SourceData/paml.csv "PAML")|Figure XXX|*Average number of synonymous substitutions per synonymous sites (dS) and non-synonymous substitutions per non-synonymous sites (dN) for BUSCO and MAT genes*
 [pi](https://github.com/PerisD/TriMAT/blob/main/SourceData/pi.csv "pi")|Figure XXX|*Nucleotide diversity values for BUSCO and MAT genes*
 [Tajima's D](https://github.com/PerisD/TriMAT/blob/main/SourceData/tajimaD.csv "Tajima's D")|Figure XXX|*Tajima's D values for BUSCO and MAT genes*
-[IQTree](https://github.com/PerisD/TriMAT/blob/main/SourceData/IQTree_logFiles.tar.gz "IQTree")|Figure XXX|*IQTree log files with information to replicate the phylogenetic reconstruction*
+[IQTree](https://github.com/PerisD/TriMAT/blob/main/SourceData/IQTree_logFiles.tar.gz "IQTree")|Figure XXX|*IQTree log files with information to replicate the phylogenetic reconstruction represented in [iTOL](http://itol.embl.de/shared/Peris_D "iTOL"). Dataset to color specimens by species designation can be found at [iTOLColors](https://github.com/PerisD/TriMAT/blob/main/MATregions/Layout_MATpaper_spp.txt "Dataset")*
 [ANI](https://github.com/PerisD/TriMAT/blob/main/SourceData/AllvsAll_distances.meg "ANI")|Figure XXX|*Converted Average Nucleotide Identity (ANI) used for reconstructing a Neighbour-Joining tree*
 
 ### Used command lines
