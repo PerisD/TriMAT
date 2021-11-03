@@ -18,8 +18,8 @@ Assemblies generated using PacBio and Illumina reads
 
 Specimen|Species|Nuclear|ENA Accession no.
 -------|-------|---|------
-TA10106M1|*T. abietinum*|[NGENOME](LLL.tar.gz "NGENOME")|[ERZ2230395](XXX "ERZ2230395")
-TF100210M3|*T. fuscoviolaceum*|[NGENOME](LLL.tar.gz "NGENOME")|[ERZ2230524](XXX "ERZ2230524")
+TA10106M1|*T. abietinum*|[NGENOME](LLL.tar.gz "NGENOME")|[GCA_910574555](XXX "GCA_910574555")
+TF100210M3|*T. fuscoviolaceum*|[NGENOME](LLL.tar.gz "NGENOME")|[GCA_910574455](XXX "GCA_910574455")
 
 [178 SPAdes assemblies generated using Illumina reads](LLL.tar.gz "Additional assemblies")
 
