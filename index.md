@@ -16,10 +16,10 @@ Assemblies, MATA/MATB regions and source data from Peris et al YYY
 
 Assemblies generated using PacBio and Illumina reads
 
-Specimen|Species|Nuclear|ENA Accession no.
--------|-------|---|------
-TA10106M1|*T. abietinum*|[NGENOME](LLL.tar.gz "NGENOME")|[GCA_910574555](XXX "GCA_910574555")
-TF100210M3|*T. fuscoviolaceum*|[NGENOME](LLL.tar.gz "NGENOME")|[GCA_910574455](XXX "GCA_910574455")
+Specimen|Species|ENA Accession no.
+-------|-------|------
+TA10106M1|*T. abietinum*|[GCA_910574555](XXX "GCA_910574555")
+TF100210M3|*T. fuscoviolaceum*|[GCA_910574455](XXX "GCA_910574455")
 
 [178 SPAdes assemblies generated using Illumina reads](LLL.tar.gz "Additional assemblies")
 
