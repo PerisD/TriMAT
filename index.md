@@ -12,7 +12,7 @@ Assemblies, MATA/MATB regions and source data from Peris et al YYY
 
 <div style="text-align:center"><img src="https://sismo.app/wp-content/uploads/2019/02/under-construction-gif-11.gif" width="250"/></div>
 
-<div style="text-align:center"><iframe src="https://giphy.com/embed/cnicT4TsXdwqiyrbik" width="250" height="250" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p></p>
+<div style="text-align:center"><iframe src="https://giphy.com/embed/cnicT4TsXdwqiyrbik" width="250" height="250" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div>
 
 ### Assemblies
 
