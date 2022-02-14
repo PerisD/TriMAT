@@ -14,9 +14,6 @@ This repository, linked to the TriMAT [Github Page](https://perisd.github.io/Tri
 
 **[MAT dryad repository](https://doi.org/10.5061/dryad.fxpnvx0t4 "MAT dryad")**
 
-
-<div style="text-align:center"><iframe src="https://giphy.com/embed/cnicT4TsXdwqiyrbik" width="250" height="250" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div>
-
 ### Assemblies
 
 Assemblies generated using PacBio and Illumina reads
