@@ -9,7 +9,7 @@
 
 This repository, linked to the TriMAT [Github Page](https://perisd.github.io/TriMAT/ "TriMAT Webpage"), contains some of the raw data used to generate Figures and Tables in this publication. Additional raw data can be found in dryad repository DOI: 
 
-**[MAT dryad repository](doi:10.5061/dryad.fxpnvx0t4 "MAT dryad")**
+**[MAT dryad repository](https://doi.org/10.5061/dryad.fxpnvx0t4 "MAT dryad")**
 
 ***
 
