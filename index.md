@@ -170,6 +170,10 @@ pal2nal.pl [GENENAME]_aa_aln.fas [GENENAME]_CDS_NoAligned.fas -codontable 1 -out
 ```
 trimal -in [GENENAME]_CDS_aln.fasta -out [GENENAME]_CDS_trimal.fas -fasta -gt 1 -block 3
 ```
+##### Translate nucleotides to amino acids with MEGA/Geneious or using the translate.py script
+```
+python translate.py -nt [GENENAME]_CDS_trimal.fas -aa [GENENAME]_aa_trimal.fas
+```
 #### Species tree reconstruction
 ##### Maximum-Likelihood individual phylogenetic trees
 ```
