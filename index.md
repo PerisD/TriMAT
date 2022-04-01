@@ -4,7 +4,7 @@ Assemblies, MATA/MATB regions and source data from Peris et al YYY
 
 **Authors**: David Peris, Dabao Sun Lu, Vilde Bruhn Kinneberg, Ine-Susanne Methlie, Malin Stapnes Dahl, Timothy Y. James, Håvard Kauserud, Inger Skrede
 
-**Journal**: Plos Genetics 18(3): e1010097
+**Journal**: [Plos Genetics 18(3): e1010097](https://doi.org/10.1371/journal.pgen.1010097 "Plos Genetics")
 
 **Year**: 2022
 
