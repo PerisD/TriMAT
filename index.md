@@ -4,9 +4,9 @@ Assemblies, MATA/MATB regions and source data from Peris et al YYY
 
 **Authors**: David Peris, Dabao Sun Lu, Vilde Bruhn Kinneberg, Ine-Susanne Methlie, Malin Stapnes Dahl, Timothy Y. James, Håvard Kauserud, Inger Skrede
 
-**Journal**:
+**Journal**: Plos Genetics 18(3): e1010097
 
-**Year**: 
+**Year**: 2022
 
 **Abstract**: Balancing selection, an evolutionary force that retains genetic diversity, has been detected in multiple genes and organisms, such as the sexual mating loci in fungi. However, to quantify the strength of balancing selection and define the mating-related genes require a large number of strains. In tetrapolar basidiomycete fungi, sexual type is determined by two unlinked loci, MATA and MATB. Genes in both loci define mating type identity, control successful mating and completion of the life cycle. These loci are usually highly diverse. Previous studies have speculated, based on culture crosses, that species of the non-model genus Trichaptum (Hymenochaetales, Basidiomycota) possess a tetrapolar mating system, with multiple alleles. Here, we sequenced a hundred and eighty strains of three Trichaptum species. We characterized the chromosomal location of MATA and MATB, the molecular structure of MAT regions and their allelic richness. The sequencing effort was sufficient to molecularly characterize multiple MAT alleles segregating before the speciation event of Trichaptum species. Analyses suggested that long-term balancing selection has generated trans-species polymorphisms. Mating sequences were classified in different allelic classes based on an amino acid identity (AAI) threshold supported by phylogenetics. 17,550 mating types were predicted based on the allelic classes. In vitro crosses allowed us to support the degree of allelic divergence needed for successful mating. Even with the high amount of divergence, key amino acids in functional domains are conserved. We conclude that the genetic diversity of mating loci in Trichaptum is due to long-term balancing selection, with limited recombination and duplication activity. The large number of sequenced strains highlighted the importance of sequencing multiple individuals from different species to detect the mating-related genes, the mechanisms generating diversity and the evolutionary forces maintaining them. 
 
@@ -23,7 +23,7 @@ Specimen|Species|ENA Accession no.
 TA10106M1|*T. abietinum*|[GCA_910574555](XXX "GCA_910574555")
 TF100210M3|*T. fuscoviolaceum*|[GCA_910574455](XXX "GCA_910574455")
 
-[178 SPAdes assemblies generated using Illumina reads](LLL.tar.gz "Additional assemblies")
+[178 SPAdes assemblies generated using Illumina reads](https://doi.org/10.5061/dryad.fxpnvx0t4 "Additional assemblies")
 
 [L15831](https://mycocosm.jgi.doe.gov/Triab1_1/Triab1_1.home.html "L15831 downloaded from JGI")
 
@@ -31,35 +31,45 @@ TF100210M3|*T. fuscoviolaceum*|[GCA_910574455](XXX "GCA_910574455")
 
 To test compatible and incompatible MAT alleles we performed crosses and we took pictures to check the generation of clamp connections.
 
-[Macroscopic](LLL.tar.gz "Macroscopic pictures of trichaptum crosses")
+[Macroscopic](https://doi.org/10.5061/dryad.fxpnvx0t4 "Macroscopic pictures of trichaptum crosses")
 
-[Microscopic](LLL.tar.gz "Pictures taken under the microscope of the contact zone during trichaptum crosses")
+[Microscopic](https://doi.org/10.5061/dryad.fxpnvx0t4 "Pictures taken under the microscope of the contact zone during trichaptum crosses")
 
 ### MATA and MATB regions
 
 MATA and MATB regions were assembled and annotated to extract individual genes and make multiple sequence alignments to perform multiple analyses.
 
-[MATA](LLL.zip "MATA regions containing homeodomain genes")
+[MATA](https://doi.org/10.5061/dryad.fxpnvx0t4 "MATA regions containing homeodomain genes")
 
-[MATB](LLL.zip "MATB regions containing pheromone receptors and pheromones")
+[MATB](https://doi.org/10.5061/dryad.fxpnvx0t4 "MATB regions containing pheromone receptors and pheromones")
 
-[IndividualGeneAlignments](LLL.zip "Trimmed individual gene alignments")
+[IndividualGeneAlignments](https://doi.org/10.5061/dryad.fxpnvx0t4 "Trimmed individual gene alignments")
 
 ### Source data
 
-Raw data used to generate Figures 1-7, S1-13
+Raw data used to generate Figures 1-8, S1-13
 
 File | Figure | Description
 -----|--------|-------------
-[BUSCO-MAT genes](https://github.com/PerisD/TriMAT/blob/main/SourceData/BUSCO_MAT_info.csv "BUSCO-MAT genes")|Figures 2 & S2|*BUSCO annotation statistics and location on TA10106M1 genome*
-[dxy](https://github.com/PerisD/TriMAT/blob/main/SourceData/dxy.csv "dxy")|Figure 7|*Absolute divergence statitstic for BUSCO and MAT genes*
-[Fst](https://github.com/PerisD/TriMAT/blob/main/SourceData/Fst.csv "Fst")|Figure 7|*Relative divergence statitstic for BUSCO and MAT genes*
-[MKT](https://github.com/PerisD/TriMAT/blob/main/SourceData/MKT.csv "MKT")|Figure 7|*Multilocus Hudson–Kreitman–Aguadé (HKA) test performed with HKAdirect 0.7b*
-[PAML](https://github.com/PerisD/TriMAT/blob/main/SourceData/paml.csv "PAML")|Figure 7 and S9|*Average number of synonymous substitutions per synonymous sites (dS) and non-synonymous substitutions per non-synonymous sites (dN) for BUSCO and MAT genes*
-[pi](https://github.com/PerisD/TriMAT/blob/main/SourceData/pi.csv "pi")|Figure 7|*Nucleotide diversity values for BUSCO and MAT genes*
-[Tajima's D](https://github.com/PerisD/TriMAT/blob/main/SourceData/tajimaD.csv "Tajima's D")|Figure 7|*Tajima's D values for BUSCO and MAT genes*
-[IQTree](https://github.com/PerisD/TriMAT/blob/main/SourceData/IQTree_logFiles.tar.gz "IQTree")|Figure 6, S1 & S5|*IQTree log files with information to replicate the phylogenetic reconstruction represented in [iTOL](http://itol.embl.de/shared/Peris_D "iTOL"). Dataset to color specimens by species designation can be found at [iTOLColors](https://github.com/PerisD/TriMAT/blob/main/MATregions/Layout_MATpaper_spp.txt "Dataset")*
-[ANI](https://github.com/PerisD/TriMAT/blob/main/SourceData/AllvsAll_distances.meg "ANI")|Figure 1, S1|*Converted Average Nucleotide Identity (ANI) used for reconstructing a Neighbour-Joining tree*
+[BUSCO-MAT genes](https://github.com/PerisD/TriMAT/blob/main/SourceData/BUSCO_MAT_info.csv "BUSCO-MAT genes")|Figures 1 & S1B|*BUSCO annotation statistics and location on TA10106M1 genome*
+[dxy](https://github.com/PerisD/TriMAT/blob/main/SourceData/dxy.csv "dxy")|Figure 8|*Absolute divergence statitstic for BUSCO and MAT genes*
+[Fst](https://github.com/PerisD/TriMAT/blob/main/SourceData/Fst.csv "Fst")|Figure 8|*Relative divergence statitstic for BUSCO and MAT genes*
+[MKT](https://github.com/PerisD/TriMAT/blob/main/SourceData/MKT.csv "MKT")|Figure 8|*Multilocus Hudson–Kreitman–Aguadé (HKA) test performed with HKAdirect 0.7b*
+[PAML](https://github.com/PerisD/TriMAT/blob/main/SourceData/paml.csv "PAML")|Figure 8 and S9|*Average number of synonymous substitutions per synonymous sites (dS) and non-synonymous substitutions per non-synonymous sites (dN) for BUSCO and MAT genes*
+[pi](https://github.com/PerisD/TriMAT/blob/main/SourceData/pi.csv "pi")|Figure 8|*Nucleotide diversity values for BUSCO and MAT genes*
+[Tajima's D](https://github.com/PerisD/TriMAT/blob/main/SourceData/tajimaD.csv "Tajima's D")|Figure 8|*Tajima's D values for BUSCO and MAT genes*
+[IQTree](https://github.com/PerisD/TriMAT/blob/main/SourceData/IQTree_logFiles.tar.gz "IQTree")|Figure 7, S1B & S5|*IQTree log files with information to replicate the phylogenetic reconstruction represented in [iTOL](http://itol.embl.de/shared/Peris_D "iTOL"). Dataset to color specimens by species designation can be found at [iTOLColors](https://github.com/PerisD/TriMAT/blob/main/MATregions/Layout_MATpaper_spp.txt "Dataset")*
+[ANI](https://github.com/PerisD/TriMAT/blob/main/SourceData/AllvsAll_distances.meg "ANI")|Figure 1B, S1A|*Converted Average Nucleotide Identity (ANI) used for reconstructing a Neighbour-Joining tree*
+
+### Supplementary Figure S13
+
+Supplementary Figure 13 (Figure S13) was generated using the proteins retrieved from JGI genomes:
+1. 1KFG: Fomitiporia mediterranea, Onnia scaura, Phellinidium ferrugineofuscum, Phellinus igniarius, Phellinus viticola, Phellopilus nigrolimitatus, Resinicium bicolor, Sidera vulgaris.
+2. 1000 Fungal Genome Project: Porodaedalea chrysoloma, Porodaedalea niemelaei.
+3. Published genomes:
+    3.1 Rickenella fibula: [Korotkin HB et al. 2018](https://doi.org/10.1002/ajb2.1183 "Korotkin, H. B., et al., "Stable isotope analyses reveal previously unknown trophic mode diversity in the Hymenochaetales," Am J Bot 105, 1869-1887 (2018)")
+    3.2 Rickenella mellea: [Krizsán, K., et al. 2019](https://www.sciencedirect.com/science/article/pii/S0168165615300407 " Krizsán, K., et al., "Transcriptomic atlas of mushroom development reveals conserved genes behind complex multicellularity in fungi," Proc. Natl. Acad. Sci. U. S. A. 116, 7409-7418 (2019)")
+    3.3 Schizopora paradoxa: [Min, B., et al. 2015](https://doi.org/10.1073/pnas.1817822116 "Min, B., et al., "Genome sequence of a white rot fungus Schizopora paradoxa KUC8140 for wood decay and mycoremediation," J. Biotechnol 211, 42-43 (2015)")
 
 ### Used command lines
 
