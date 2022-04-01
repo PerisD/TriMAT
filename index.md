@@ -10,7 +10,7 @@ Assemblies, MATA/MATB regions and source data from Peris et al YYY
 
 **Abstract**: Balancing selection, an evolutionary force that retains genetic diversity, has been detected in multiple genes and organisms, such as the sexual mating loci in fungi. However, to quantify the strength of balancing selection and define the mating-related genes require a large number of strains. In tetrapolar basidiomycete fungi, sexual type is determined by two unlinked loci, MATA and MATB. Genes in both loci define mating type identity, control successful mating and completion of the life cycle. These loci are usually highly diverse. Previous studies have speculated, based on culture crosses, that species of the non-model genus Trichaptum (Hymenochaetales, Basidiomycota) possess a tetrapolar mating system, with multiple alleles. Here, we sequenced a hundred and eighty strains of three Trichaptum species. We characterized the chromosomal location of MATA and MATB, the molecular structure of MAT regions and their allelic richness. The sequencing effort was sufficient to molecularly characterize multiple MAT alleles segregating before the speciation event of Trichaptum species. Analyses suggested that long-term balancing selection has generated trans-species polymorphisms. Mating sequences were classified in different allelic classes based on an amino acid identity (AAI) threshold supported by phylogenetics. 17,550 mating types were predicted based on the allelic classes. In vitro crosses allowed us to support the degree of allelic divergence needed for successful mating. Even with the high amount of divergence, key amino acids in functional domains are conserved. We conclude that the genetic diversity of mating loci in Trichaptum is due to long-term balancing selection, with limited recombination and duplication activity. The large number of sequenced strains highlighted the importance of sequencing multiple individuals from different species to detect the mating-related genes, the mechanisms generating diversity and the evolutionary forces maintaining them. 
 
-This repository, linked to the TriMAT [Github Page](https://perisd.github.io/TriMAT/ "TriMAT Webpage"), contains some of the raw data used to generate Figures and Tables in this publication. Additional raw data can be found in dryad repository DOI: 
+This repository, linked to the TriMAT [Github Repository](https://github.com/PerisD/TriMAT "TriMAT Repository"), contains some of the raw data used to generate Figures and Tables in this publication. Additional raw data can be found in dryad repository DOI: 
 
 **[MAT dryad repository](https://doi.org/10.5061/dryad.fxpnvx0t4 "MAT dryad")**
 
@@ -47,19 +47,19 @@ MATA and MATB regions were assembled and annotated to extract individual genes a
 
 ### Source data
 
-Raw data used to generate Figures 1-8, S1-13
+Raw data used to generate Figures 1-8 and S1-13 in [MAT dryad repository](https://doi.org/10.5061/dryad.fxpnvx0t4 "MAT dryad")
 
 File | Figure | Description
 -----|--------|-------------
-[BUSCO-MAT genes](https://github.com/PerisD/TriMAT/blob/main/SourceData/BUSCO_MAT_info.csv "BUSCO-MAT genes")|Figures 1 & S1B|*BUSCO annotation statistics and location on TA10106M1 genome*
-[dxy](https://github.com/PerisD/TriMAT/blob/main/SourceData/dxy.csv "dxy")|Figure 8|*Absolute divergence statitstic for BUSCO and MAT genes*
-[Fst](https://github.com/PerisD/TriMAT/blob/main/SourceData/Fst.csv "Fst")|Figure 8|*Relative divergence statitstic for BUSCO and MAT genes*
-[MKT](https://github.com/PerisD/TriMAT/blob/main/SourceData/MKT.csv "MKT")|Figure 8|*Multilocus Hudson–Kreitman–Aguadé (HKA) test performed with HKAdirect 0.7b*
-[PAML](https://github.com/PerisD/TriMAT/blob/main/SourceData/paml.csv "PAML")|Figure 8 and S9|*Average number of synonymous substitutions per synonymous sites (dS) and non-synonymous substitutions per non-synonymous sites (dN) for BUSCO and MAT genes*
-[pi](https://github.com/PerisD/TriMAT/blob/main/SourceData/pi.csv "pi")|Figure 8|*Nucleotide diversity values for BUSCO and MAT genes*
-[Tajima's D](https://github.com/PerisD/TriMAT/blob/main/SourceData/tajimaD.csv "Tajima's D")|Figure 8|*Tajima's D values for BUSCO and MAT genes*
-[IQTree](https://github.com/PerisD/TriMAT/blob/main/SourceData/IQTree_logFiles.tar.gz "IQTree")|Figure 7, S1B & S5|*IQTree log files with information to replicate the phylogenetic reconstruction represented in [iTOL](http://itol.embl.de/shared/Peris_D "iTOL"). Dataset to color specimens by species designation can be found at [iTOLColors](https://github.com/PerisD/TriMAT/blob/main/MATregions/Layout_MATpaper_spp.txt "Dataset")*
-[ANI](https://github.com/PerisD/TriMAT/blob/main/SourceData/AllvsAll_distances.meg "ANI")|Figure 1B, S1A|*Converted Average Nucleotide Identity (ANI) used for reconstructing a Neighbour-Joining tree*
+BUSCO-MAT genes|Figures 1 & S1B|*BUSCO annotation statistics and location on TA10106M1 genome*
+dxy|Figure 8|*Absolute divergence statitstic for BUSCO and MAT genes*
+Fst|Figure 8|*Relative divergence statitstic for BUSCO and MAT genes*
+MKT|Figure 8|*Multilocus Hudson–Kreitman–Aguadé (HKA) test performed with HKAdirect 0.7b*
+PAML|Figure 8 and S9|*Average number of synonymous substitutions per synonymous sites (dS) and non-synonymous substitutions per non-synonymous sites (dN) for BUSCO and MAT genes*
+pi|Figure 8|*Nucleotide diversity values for BUSCO and MAT genes*
+Tajima's D|Figure 8|*Tajima's D values for BUSCO and MAT genes*
+IQTree|Figure 7, S1B & S5|*IQTree log files with information to replicate the phylogenetic reconstruction represented in [iTOL](http://itol.embl.de/shared/Peris_D "iTOL"). Dataset to color specimens by species designation can be found at [iTOLColors](https://github.com/PerisD/TriMAT/blob/main/MATregions/Layout_MATpaper_spp.txt "Dataset")*
+ANI|Figure 1B, S1A|*Converted Average Nucleotide Identity (ANI) used for reconstructing a Neighbour-Joining tree*
 
 ### Supplementary Figure S13
 
