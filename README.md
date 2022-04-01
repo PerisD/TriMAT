@@ -13,7 +13,7 @@ This repository, linked to the TriMAT [Github Page](https://perisd.github.io/Tri
 
 Note:
 
-Supplementary Figure 13 (Figure S13) was generated using the proteins retrieved from JGI genomes:
+Supplementary Figure 13 [Figure S13](https://journals.plos.org/plosgenetics/article/file?type=supplementary&id=10.1371/journal.pgen.1010097.s013 "Fig S13") was generated using the proteins retrieved from JGI genomes:
 1. 1KFG: Fomitiporia mediterranea, Onnia scaura, Phellinidium ferrugineofuscum, Phellinus igniarius, Phellinus viticola, Resinicium bicolor, Sidera vulgaris.
 
     1.1 Phellopilus nigrolimiatatus: [Sønstebø et al. 2022](https://doi.org/10.1111/mec.16369 "Sønstebø, J. H., et al., "Population genomics of a forest fungus reveals high gene flow and climate adaptation signatures," Mol Ecol 31, 1963-1979 (2022)")
