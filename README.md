@@ -25,7 +25,7 @@ Supplementary [Figure S13](https://journals.plos.org/plosgenetics/article/file?t
     
     3.2 Rickenella mellea: [Krizsán et al. 2019](https://www.sciencedirect.com/science/article/pii/S0168165615300407 "Krizsán et al 2019") Krizsán, K., et al., "Transcriptomic atlas of mushroom development reveals conserved genes behind complex multicellularity in fungi," Proc. Natl. Acad. Sci. U. S. A. 116, 7409-7418 (2019)
     
-    3.3 Schizopora paradoxa: [Min et al. 2015](https://doi.org/10.1073/pnas.1817822116 "Min, B., et al., "Genome sequence of a white rot fungus Schizopora paradoxa KUC8140 for wood decay and mycoremediation," J. Biotechnol 211, 42-43 (2015)")
+    3.3 Schizopora paradoxa: [Min et al. 2015](https://doi.org/10.1073/pnas.1817822116 "Min et al 2015") Min, B., et al., "Genome sequence of a white rot fungus Schizopora paradoxa KUC8140 for wood decay and mycoremediation," J. Biotechnol 211, 42-43 (2015)
 
 ***
 
