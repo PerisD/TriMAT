@@ -67,8 +67,11 @@ Supplementary Figure 13 (Figure S13) was generated using the proteins retrieved 
 1. 1KFG: Fomitiporia mediterranea, Onnia scaura, Phellinidium ferrugineofuscum, Phellinus igniarius, Phellinus viticola, Phellopilus nigrolimitatus, Resinicium bicolor, Sidera vulgaris.
 2. 1000 Fungal Genome Project: Porodaedalea chrysoloma, Porodaedalea niemelaei.
 3. Published genomes:
+    
     3.1 Rickenella fibula: [Korotkin HB et al. 2018](https://doi.org/10.1002/ajb2.1183 "Korotkin, H. B., et al., "Stable isotope analyses reveal previously unknown trophic mode diversity in the Hymenochaetales," Am J Bot 105, 1869-1887 (2018)")
+    
     3.2 Rickenella mellea: [Krizsán, K., et al. 2019](https://www.sciencedirect.com/science/article/pii/S0168165615300407 " Krizsán, K., et al., "Transcriptomic atlas of mushroom development reveals conserved genes behind complex multicellularity in fungi," Proc. Natl. Acad. Sci. U. S. A. 116, 7409-7418 (2019)")
+    
     3.3 Schizopora paradoxa: [Min, B., et al. 2015](https://doi.org/10.1073/pnas.1817822116 "Min, B., et al., "Genome sequence of a white rot fungus Schizopora paradoxa KUC8140 for wood decay and mycoremediation," J. Biotechnol 211, 42-43 (2015)")
 
 ### Used command lines
