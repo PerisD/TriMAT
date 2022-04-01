@@ -1,6 +1,6 @@
 ## Large-scale fungal strain sequencing unravels the molecular diversity in mating loci maintained by long-term balancing selection
 
-Assemblies, MATA/MATB regions and source data from Peris et al YYY
+Assemblies, MATA/MATB regions and source data from Peris et al 2022
 
 **Authors**: David Peris, Dabao Sun Lu, Vilde Bruhn Kinneberg, Ine-Susanne Methlie, Malin Stapnes Dahl, Timothy Y. James, Håvard Kauserud, Inger Skrede
 
