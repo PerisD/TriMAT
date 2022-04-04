@@ -68,7 +68,7 @@ Supplementary [Figure S13](https://journals.plos.org/plosgenetics/article/file?t
 
     1.1 Phellopilus nigrolimiatatus: [Sønstebø et al. 2022](https://doi.org/10.1111/mec.16369 "Sønstebø et al 2022") "Population genomics of a forest fungus reveals high gene flow and climate adaptation signatures," Mol Ecol 31, 1963-1979
 
-We are grateful to Francis Martin and the 'Metatranscriptomics of Forest Soil Ecosystems' consortia for access to unpublished genome data. The genome sequence data were produced by the US Department of Energy Joint Genome Institute in collaboration with the user community.
+We are grateful to Francis Martin, Sundy Maurice, Otto Miettinen, Joseph W Spatafora, 1KFG and the 'Metatranscriptomics of Forest Soil Ecosystems' consortia for access to unpublished genome data. The genome sequence data were produced by the US Department of Energy Joint Genome Institute in collaboration with the user community.
 
 2. 1000 Fungal Genome Project: Porodaedalea chrysoloma, Porodaedalea niemelaei.
 3. Published genomes:
