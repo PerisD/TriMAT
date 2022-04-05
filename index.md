@@ -64,14 +64,13 @@ ANI|Figure 1B, S1A|*Converted Average Nucleotide Identity (ANI) used for reconst
 ### Supplementary Figure S13
 
 Supplementary [Figure S13](https://journals.plos.org/plosgenetics/article/file?type=supplementary&id=10.1371/journal.pgen.1010097.s013 "Fig S13") was generated using the proteins retrieved from JGI genomes:
-1. 1KFG: Fomitiporia mediterranea, Onnia scaura, Phellinidium ferrugineofuscum, Phellinus igniarius, Phellinus viticola, Resinicium bicolor, Sidera vulgaris.
+1. 1KFG: Fomitiporia mediterranea, Onnia scaura, Phellinidium ferrugineofuscum, Phellinus igniarius, Phellinus viticola, Resinicium bicolor, Sidera vulgaris, Porodaedalea chrysoloma, Porodaedalea niemelaei.
 
     1.1 Phellopilus nigrolimiatatus: [Sønstebø et al. 2022](https://doi.org/10.1111/mec.16369 "Sønstebø et al 2022") "Population genomics of a forest fungus reveals high gene flow and climate adaptation signatures," Mol Ecol 31, 1963-1979
 
 We are grateful to Francis Martin, Sundy Maurice, Otto Miettinen, Joseph W Spatafora, 1KFG and the 'Metatranscriptomics of Forest Soil Ecosystems' consortia for access to unpublished genome data. The genome sequence data were produced by the US Department of Energy Joint Genome Institute in collaboration with the user community.
 
-2. 1000 Fungal Genome Project: Porodaedalea chrysoloma, Porodaedalea niemelaei.
-3. Published genomes:
+2. Published genomes:
     
     3.1 Rickenella fibula: [Korotkin et al. 2018](https://doi.org/10.1002/ajb2.1183 "Korotkin et al 2018") "Stable isotope analyses reveal previously unknown trophic mode diversity in the Hymenochaetales," Am J Bot 105, 1869-1887
     
